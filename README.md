@@ -1,3 +1,5 @@
+[![Math Utility Project (CI included) | © 2025 by lhducc](https://github.com/lhducc/mathutil/actions/workflows/ci-script.yml/badge.svg)](https://github.com/lhducc/mathutil/actions/workflows/ci-script.yml)
+
 # Welcome to Math Utility Repository
 
 ## You will find in this repo the following stuff:
